@@ -92,16 +92,57 @@ with a couple of the firm's partners. My iPhone beeped the message signal. I con
 port on my cell-phone. The workstation's Microsoft OS image disappeared as the cell phone's Apple logo was displayed. 
 A message was waiting from Dr. Huo.
 
-I opened up the message, the body contained two short paragraphs. After scanning the first three sentences composed of pleasantries, Dr. Huo provided an url to a paper he had recently written on carbon-neutral bucky-balls that combines to make certain configurations of explosive chemical reactions inert. I clicked on the hyper-link which took me to an PDF file of the paper. I downloaded the copy to my cell's persistent memory and then replied to Dr. Huo's request for meeting the Tuesday after I returned to Chicago.
-	I scanned through the remaining messages on my phone, replying to some, ignoring others, deleting the spam and other junk mail. I unplugged the cable from my cell-phone to the plasma display and let the wireless Microsoft client OS take charge. For many years now I assume that all of my electronic communications are monitored in some fashion by domestic and foreign governments, clients and competitors, and likely my own firm. I wasn't too surprised when I finished my work day and I was walking back to my room that the desk clerk told me I had visitors.
-	The door to my room was open when I arrived. Two taller Chinese dressed in dark suits and ties were waiting for me, clearly the beneficiaries of higher protein diets. The smaller of the two stepped forwarded and smiled. He extended his right hand and asked, “How are sir, can we talk? My name is Chen Yui Yang my partner and I would like to discuss something delicate with you.” His English was excellent with just a trace of an accent.
-	I nodded my assent and I walked into the room and shut the door before turning around and shaking Chen's hand. I walked over to the single bed and sat down. “What can I do for you?” I asked. I wasn't sure who these men worked for, I assume either Chinese government or private contractor. My guess would be government as their suits had that odd stiffness of cheap nano-fiber projectile projection. Most contractors could afford the better quality and make of personal protection.
-	“I apologize for my associates quietness, he understand much more English then he speaks. Now, what can you tell of use Dr. Huo?” I didn't know if I believed how incapable the associate's language skills were and I was surprised that my limited contact with Dr. Huo caused such an overt response from the authorities here in Shanghai.
-	“My contact with Dr. Huo has been limited. I just recently met the man and I agreed to help him out with some technology planning. I am meeting with him next week.” I replied directly at Chen and also noticing how the other man followed my speech.
-	Chen said something in rapid-fire Chinese with the other agent replying in a lower tone. I wasn't sure what happened but Chen looked somewhat relieved as he turned back to me. “Please excuse us, but we are from a advisory body with the Central Government's nano-technology overseer committee. Dr. Huo's work shows great promise and we would like to assist you in any way we can. We are here to help if you or Dr. Huo need manufacturing assets.” Chen then handed me a smart business card, shook my hand, motioned to the other agent, and left room by opening the door and walking out.
-	I didn't know what to think anymore. Being approached by the Chinese government is not an everyday occurrence. I knew that this personal contact would be reported back to various interested parties in the United States and I would be visited by others when I got back to the States.
-	My flight was scheduled to leave in a forty-two hours, I decided on some quick sight-seeing before leaving back to the states. I visited the World War II and Cultural Revolution monuments, purchased some illegal High-Def DVDs of recent Bollywood movie hits and went back to my hotel room after a traditional simple dinner of rice and fish sauce with cheap beer before collapsing into a deary night sleep.
-	As I left my hotel the next morning, hailing a cab, I caught out of the corner of my eye, a Mazda dark sedan idling about fifty meters from where I was standing. Inside were three men and I was sure the front passenger-side man was my friend Chen. He smiled and waved. A cab came and I got in. As we drove off I watched the Mazda swing out into traffic and start following us. When we got the airport, I mumbled through the transaction with the cab driver, him in broken English, me in my few phrases of Mandarin. I lost sight of the Mazda but I didn't care, I was running late for my flight and I still had to go through customs and check in my luggage.
+I opened up the message, the body contained two short paragraphs. After scanning the first three sentences of pleasantries, Dr. Huo 
+provided an [arXiv](https://arxiv.org/) preprint he had recently written on carbon-neutral bucky-balls, combining to make certain 
+configurations of explosive chemical reactions inert. I clicked on the hyper-link which took me to an PDF file of the paper. I 
+downloaded the copy to my iPhone and then replied in the affirmative to Dr. Huo's request for meeting the Tuesday after I returned to Chicago.
+
+I scanned through the remaining messages on my phone, replying to some, ignoring others, deleting the spam and other junk mail. I unplugged 
+the cable from my cell-phone to the plasma display and let the wireless Microsoft client OS take charge. For many years now I assume that 
+all of my electronic communications are monitored in some fashion by domestic and foreign governments, clients and competitors, and 
+likely my own firm. I wasn't too surprised when I finished my work day and I was walking back to my room that the desk clerk told me I had visitors.
+
+The door to my room was open when I arrived. Two taller Chinese dressed in dark suits and ties were waiting for me, parents clearly 
+beneficiaries of higher protein diets. The smaller of the two stepped forwarded and smiled. He extended his right hand and asked, 
+
+"How are sir, can we talk? My name is Chen Yui Yang my partner and I would like to discuss something delicate with you." His English 
+excellent with just a trace of an accent.
+
+I nodded my assent and I walked into the room and shut the door before turning around and shaking Chen's hand. I walked over to the 
+single bed and sat down. 
+
+"What can I do for you?" I asked. I wasn't sure who these men worked for, I assume either Chinese government or private 
+contractor. My guess would be government as their suits had that odd stiffness of cheap nano-fiber projectile projection. 
+Most contractors could afford the better quality and make of personal protection.
+
+"I apologize for my associates quietness, he understand much more English then he speaks. Now, what can you 
+tell of use Dr. Huo?"
+
+I didn't know if I believed how incapable the associate's language skills were and I was surprised that my limited 
+contact with Dr. Huo caused such an overt response from the authorities here in Shanghai.
+
+"My contact with Dr. Huo has been limited. I just recently met the man and I agreed to help him out with some technology 
+planning. I am meeting with him next week." I replied directly at Chen and also noticing how the other man followed my speech.
+
+Chen said something in rapid-fire Chinese with the other agent replying in a lower tone. I wasn't sure what happened 
+but Chen looked somewhat relieved as he turned back to me. 
+
+"Please excuse us, but we are from a advisory body with the Central Government's nano-technology overseer committee. Dr. 
+Huo's work shows great promise and we would like to assist you in any way we can. We are here to help if you or Dr. Huo 
+need manufacturing assets." Chen then handed me a smart business card, shook my hand, motioned to the other agent, and 
+left room by opening the door and walking out.
+
+I didn't know what to think anymore. Being approached by the Chinese government is not an everyday occurrence. I knew 
+that this personal contact would be reported back to various interested parties in the United States and I would be 
+visited by others when I got back to the States.
+
+My flight was scheduled to leave in a forty-two hours, I decided on some quick sight-seeing before leaving back to 
+the states. I visited the World War II and Cultural Revolution monuments, purchased some illegal High-Def DVDs of 
+recent Bollywood movie hits and went back to my hotel room after a traditional simple dinner of rice and fish sauce 
+with cheap beer before collapsing into a deary night sleep.
+
+As I left my hotel the next morning, hailing a cab, I caught out of the corner of my eye, a Mazda dark sedan idling 
+about fifty meters from where I was standing. Inside were three men and I was sure the front passenger-side man was my friend Chen. He smiled and waved. A cab came and I got in. As we drove off I watched the Mazda swing out into traffic and start following us. When we got the airport, I mumbled through the transaction with the cab driver, him in broken English, me in my few phrases of Mandarin. I lost sight of the Mazda but I didn't care, I was running late for my flight and I still had to go through customs and check in my luggage.
 	I fought my way through customs, my DVDs, not being the latest Hollywood fare was ignored, but I did endure a short interview about who I contacted and talked with during my stay in China. I didn't mention Chen, not wanting to get caught up in any inter-governmental snafu between the customs and who-knows-who that Chen represented. Finally, I am on the airplane, waiting for takeoff, sipping a cold can of Budweiser (the only cheap choice unfortunately, I wasn't flying first class on my Pacific journey, just Business)
 	After a ten hour lay-over at Honolulu International airport, I was five hours from landing at O'Hara. The main deliverables for the current project are done. I am tired and plan to take a few days off, spend some time in researching nanotech and meeting with Dr. Huo.
 	
@@ -113,5 +154,6 @@ Chapter One
 	I closed my front door. I heard the door's security layers slide into place. My security at the time was not the best. I really didn't have much physical objects worth stealing. More worrisome was the threat of random violence from global warming refugees filling the city. Floating rafts of humanity floated through the now clear Arctic  ocean, down through the St. Laurence channel into the Great Lakes. The U.S. Coast Guard contained as many of the rafts in the Lake as they could. Current estimates of two million refugees floating out in the lake was hard to think about. They were creating their ecology, alternating between floating masses of algae that provided raw food to their food supply. Of course, smuggling humans continued to Chicago strained city resources.
 	Violence and chaos erupted when many refugees fought for recognition and clashed with police and the suburb militias. Most of the casualties were silent, people ending up erased through biological and electronic conflict. I avoided areas of question, finding the answers through my collection of four-dimensional mapping and predictive Google web services. All pumped into my cell phone.
 	I still had an hour before lunch so I walked down the alley to  Irving and then begin walking North. Hybrid vehicles of various colors and sizes passed by as I walked on the thermo-cement refinished sidewalks. My shoe soles adjusted under my feet, cooling and keeping my internal temperature from reacting too much from the hot Illinois day.
+
 
 
