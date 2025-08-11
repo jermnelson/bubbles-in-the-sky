@@ -22,9 +22,27 @@ My last project was really my last. I am now famous and despised by a significan
 build a large fetish of the technology I made obsolete, redirecting their hate towards me and my friend, the late Dr. 
 Hanover Huo. 
 
-Ten years ago I worked for a small, free-lance software-as-service consulting company based in Chicago with offices in Bangalore and Shanghai. I flu from O'Hare and Mexico City every two or three weeks, working on a Mexican-American integration project. With the genetic manipulation laws and ethics being more relaxed in the Mexico after the biotechnology purge of California required better software communication between the production faculties in Tijuana and the San Diego research park of our client. Our client's name is unimportant now, being bought out by a top 100 Wall Street pharmaceutical giant a few months after our involvement.
-	I spent much of my time in meetings; virtual and in-person. Slides, 2 and 3-D holographic projections.  Lying, negotiating, sleeping, dining out, and flying. My project was secondary to the chief project. My deliverables  were part real, coded by our engineers in China and India, and part bull-shit, b oth upstream to the managers of our clients and home office, and downstream to the engineers. My life paid for my condo on the North side, easily within walking distance of the Lake Michigan and Grant Park. When I was home, I slept, did laundry, and went out with my few remaining friends. I claimed I was too busy for a relationship, but that wasn't entirely true. I was depressed.
-	Dr. Huo and I met when I was in a project lull. My production schedule chugged on, I left for a trip to China in a couple of weeks and I wanted to catch-up on my domestic tasks before then. I walked outside in the oppressive Summer humidity of the Midwest, and went to a coffee shop dressed in my beat-up jean shorts and a faded blue t-shirt with my brown Birkenstocks. I ordered an iced coffee and sat down a table facing the street. I don't remember the name of the coffee shop, although I know it wasn't a chain. I zoned out, thinking about the multi-dimensional Ganett chart that keep track of my current project. Two days ago I heard from the gossip mill in the main office, that we close to signing another major client and I was excited. A small, middle-aged Asian man, with balding black hair, slightly sloped over, interrupted my revue.
+Ten years ago I worked for a small, free-lance software-as-service consulting company based in Chicago with offices in 
+Bangalore and Shanghai. I flew from O'Hare and Mexico City every two or three weeks, working on a Mexican-American 
+integration project started in aftermath of Trump's second term. With the genetic manipulation laws and ethics being 
+more rational and relaxed in Mexico after the Robert Kennidy's biotechnology purge of California, my sub-project was 
+managing required better software communication between  the production faculties in Tijuana and the San San Francisco and
+San Diego research centers of our client. 
+
+Our client's name is unimportant now, being bought out by a top 100 Wall Street pharmaceutical giant a few months after 
+our involvement.
+
+I spent much of my time in meetings; Zoom virtual and the rare in-person visits during pandemic wanes. 
+Slides, 2 and 3-D holographic projections, our fine-tuned Generative Large Langauge Models.  Lying, negotiating, 
+sleeping, dining out, and flying. 
+
+My project was secondary to the chief project. My deliverables  were part real, coded by our engineers in China and India, 
+and part bull-shit, both upstream to the managers of our clients and home office, and downstream to the engineers. This work paid 
+for my condo on the North side, easily within walking distance of the Lake Michigan and Grant Park. When I was home, I slept, did 
+laundry, and went out with my few remaining friends. I claimed I was too busy for a relationship, but that wasn't entirely true. 
+I was depressed.
+
+Dr. Huo and I met when I was in a project lull. My production schedule chugged on, I left for a trip to China in a couple of weeks and I wanted to catch-up on my domestic tasks before then. I walked outside in the oppressive Summer humidity of the Midwest, and went to a coffee shop dressed in my beat-up jean shorts and a faded blue t-shirt with my brown Birkenstocks. I ordered an iced coffee and sat down a table facing the street. I don't remember the name of the coffee shop, although I know it wasn't a chain. I zoned out, thinking about the multi-dimensional Ganett chart that keep track of my current project. Two days ago I heard from the gossip mill in the main office, that we close to signing another major client and I was excited. A small, middle-aged Asian man, with balding black hair, slightly sloped over, interrupted my revue.
 	“Hello, can I sit next to you?” he asked with a neutral accent. Definitely second or third generation American but what do I know.
 	“Sure, please sit.” I replied. I didn't want to be rude. He sat down across from me. He had an Italian Soda in a plastic cup with beads of water running down the outside as the ice melted in the cup. I looked away and  out the window.
 	“Humid weather we are having.”
@@ -57,3 +75,4 @@ Chapter One
 	I closed my front door. I heard the door's security layers slide into place. My security at the time was not the best. I really didn't have much physical objects worth stealing. More worrisome was the threat of random violence from global warming refugees filling the city. Floating rafts of humanity floated through the now clear Arctic  ocean, down through the St. Laurence channel into the Great Lakes. The U.S. Coast Guard contained as many of the rafts in the Lake as they could. Current estimates of two million refugees floating out in the lake was hard to think about. They were creating their ecology, alternating between floating masses of algae that provided raw food to their food supply. Of course, smuggling humans continued to Chicago strained city resources.
 	Violence and chaos erupted when many refugees fought for recognition and clashed with police and the suburb militias. Most of the casualties were silent, people ending up erased through biological and electronic conflict. I avoided areas of question, finding the answers through my collection of four-dimensional mapping and predictive Google web services. All pumped into my cell phone.
 	I still had an hour before lunch so I walked down the alley to  Irving and then begin walking North. Hybrid vehicles of various colors and sizes passed by as I walked on the thermo-cement refinished sidewalks. My shoe soles adjusted under my feet, cooling and keeping my internal temperature from reacting too much from the hot Illinois day.
+
