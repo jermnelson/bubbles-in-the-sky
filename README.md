@@ -42,19 +42,57 @@ for my condo on the North side, easily within walking distance of the Lake Michi
 laundry, and went out with my few remaining friends. I claimed I was too busy for a relationship, but that wasn't entirely true. 
 I was depressed.
 
-Dr. Huo and I met when I was in a project lull. My production schedule chugged on, I left for a trip to China in a couple of weeks and I wanted to catch-up on my domestic tasks before then. I walked outside in the oppressive Summer humidity of the Midwest, and went to a coffee shop dressed in my beat-up jean shorts and a faded blue t-shirt with my brown Birkenstocks. I ordered an iced coffee and sat down a table facing the street. I don't remember the name of the coffee shop, although I know it wasn't a chain. I zoned out, thinking about the multi-dimensional Ganett chart that keep track of my current project. Two days ago I heard from the gossip mill in the main office, that we close to signing another major client and I was excited. A small, middle-aged Asian man, with balding black hair, slightly sloped over, interrupted my revue.
-	“Hello, can I sit next to you?” he asked with a neutral accent. Definitely second or third generation American but what do I know.
-	“Sure, please sit.” I replied. I didn't want to be rude. He sat down across from me. He had an Italian Soda in a plastic cup with beads of water running down the outside as the ice melted in the cup. I looked away and  out the window.
-	“Humid weather we are having.”
-	“Yeah, I'm headed to China in a couple of weeks and I expect I'll wish for Chicago's weather.” I thought would be the end of our conservation.
-	“Do you know anything about dampening molecular  engineering?” I wasn't sure I wanted to answer I figured on some type of nano-technology but I couldn't be sure.
-	“Umm, no. Is a type of nano-technology?” I said back in tone that superseded just causal morning indifference.
-	“Yes, my research looks at using carbon fullerene or tiny buckyballs, to encapsulate molecules we want to disrupt, like gunpowder or other type of explosive charge. I've been looking for someone to help figure out the production schedule and help me bring it market.”
-	I thought this person to be strange. How did he know I could help him? Could I help him? Although I liked my job, I was looking for a new challenge and helping one global corporation move electronic bits from one place to another with less friction, ignoring and circumventing local and global laws to the best effect. Global interference, enriching the small elites in every country. I didn't consider myself as a member of the elite; although my lifestyle and asset set would put me in the top ten percent of the planet.
-	I gave Dr. Huo my business card. The usual RFID chip would provide a public key to uniquely  encrypt the receiver's information with my contact manger hosted by the Google-Apple consortium. My cell-phone runs Mac OS XII with built in RFID scanner. Dr. Huo stared intently as I left the coffee shop.  
-	I didn't hear or think about Dr. Huo after I flew to Shanghai. Our deadline approached and the deliverables changed. My Chinese technical pigwin improved as I sat and helped test and debug our code base. Testing across multiple virtual machines and operating systems; mapping our requirements to AI compliers converting data and extrapolating trends for our client.
-	I sat down. The smell of the city's pollution seeped through the best efforts of the climate controls of the boring box building in an industrial park in a Shanghai suburb. In Chicago, the day was just beginning and I was waiting to chat and vid conference with a couple of the firm's partners. My cell-phone beeped the message signal. I connected my plasma display to the universal output port on my cell-phone. The workstation's Microsoft OS image disappeared as the cell phone's Apple logo was displayed. A message was waiting from Dr. Huo.
-	I opened up the message, the body contained two short paragraphs. After scanning the first three sentences composed of pleasantries, Dr. Huo provided an url to a paper he had recently written on carbon-neutral bucky-balls that combines to make certain configurations of explosive chemical reactions inert. I clicked on the hyper-link which took me to an PDF file of the paper. I downloaded the copy to my cell's persistent memory and then replied to Dr. Huo's request for meeting the Tuesday after I returned to Chicago.
+Dr. Huo and I met when I was in a project lull. My production schedule chugged on, I left for a trip to China in a couple of 
+weeks and I wanted to catch-up on my domestic tasks before then. I walked outside in the oppressive Summer humidity of the Midwest,
+went to a coffee shop dressed in my beat-up jean shorts and a faded blue t-shirt with my brown Birkenstocks. I ordered an iced 
+coffee and sat down a table facing the street. I don't remember the name of the coffee shop, although I know it wasn't a chain. 
+
+I zoned out, thinking about the multi-dimensional Ganett chart that keep track of my current project. Two days ago I heard from 
+the gossip mill in the main office, that we close to signing another major client and I was excited. A small, middle-aged Asian 
+man, with balding black hair, slightly sloped over, interrupted my revue.
+
+"Hello, can I sit next to you?" he asked with a neutral accent. Definitely second or third generation American but what do I know.
+
+"Sure, please sit.” I replied. I didn't want to be rude. He sat down across from me. He had an Italian Soda in a plastic cup with 
+beads of water running down the outside as the ice melted in the cup. I looked away and  out the window.
+
+"Humid weather we are having."
+
+"Yeah, I'm headed to China in a couple of weeks and I expect I'll wish for Chicago's weather." I thought would be the end of our 
+conservation.
+
+"Do you know anything about dampening molecular  engineering?" I wasn't sure I wanted to answer I figured on some type of nano-technology 
+but I couldn't be sure.
+
+"Umm, no. Is a type of nano-technology?" I said back in tone that superseded just causal morning indifference.
+
+"Yes, my research looks at using carbon fullerene or tiny buckyballs, to encapsulate molecules we want to disrupt, like gunpowder 
+or other type of explosive charge. I've been looking for someone to help figure out the production schedule and help me bring it market."
+
+I thought this person to be strange. How did he know I could help him? Could I help him? Although I liked my job, I was looking for a 
+new challenge and helping one global corporation move electronic bits from one place to another with less friction, ignoring and 
+circumventing local and global laws to the best effect. 
+
+Global interference, enriching the small elites in every country. I didn't consider myself as a member of the elite; although my 
+lifestyle and assets put me in the top ten percent of the planet.
+
+I sent Dr. Huo my contact info through my real-world business card, embedded with server that along with the RFID chip, provides a 
+public key to uniquely encrypt the receiver's information with my contact manger hosted by the Google-Apple consortium. 
+
+My iPhone and watch with built in RFID scanner. Dr. Huo stared intently as I left the coffee shop.  
+
+I didn't hear or think about Dr. Huo after I flew to Shanghai. Our deadline approached and the deliverables changed. My Mandarain 
+improved as I sat and helped test and debug our code base. Testing across multiple virtual machines and 
+operating systems; mapping our requirements through to LLMs that together with neurosymbolic AI compliers, converted data and 
+extrapolating trends for our client.
+
+I sat down. The smell of the city's pollution seeped through the best efforts of the climate controls of the boring box building 
+in an industrial park in a Shanghai suburb. In Chicago, the day was just beginning and I was waiting to chat and Zoom conference call 
+with a couple of the firm's partners. My iPhone beeped the message signal. I connected my plasma display to the universal output 
+port on my cell-phone. The workstation's Microsoft OS image disappeared as the cell phone's Apple logo was displayed. 
+A message was waiting from Dr. Huo.
+
+I opened up the message, the body contained two short paragraphs. After scanning the first three sentences composed of pleasantries, Dr. Huo provided an url to a paper he had recently written on carbon-neutral bucky-balls that combines to make certain configurations of explosive chemical reactions inert. I clicked on the hyper-link which took me to an PDF file of the paper. I downloaded the copy to my cell's persistent memory and then replied to Dr. Huo's request for meeting the Tuesday after I returned to Chicago.
 	I scanned through the remaining messages on my phone, replying to some, ignoring others, deleting the spam and other junk mail. I unplugged the cable from my cell-phone to the plasma display and let the wireless Microsoft client OS take charge. For many years now I assume that all of my electronic communications are monitored in some fashion by domestic and foreign governments, clients and competitors, and likely my own firm. I wasn't too surprised when I finished my work day and I was walking back to my room that the desk clerk told me I had visitors.
 	The door to my room was open when I arrived. Two taller Chinese dressed in dark suits and ties were waiting for me, clearly the beneficiaries of higher protein diets. The smaller of the two stepped forwarded and smiled. He extended his right hand and asked, “How are sir, can we talk? My name is Chen Yui Yang my partner and I would like to discuss something delicate with you.” His English was excellent with just a trace of an accent.
 	I nodded my assent and I walked into the room and shut the door before turning around and shaking Chen's hand. I walked over to the single bed and sat down. “What can I do for you?” I asked. I wasn't sure who these men worked for, I assume either Chinese government or private contractor. My guess would be government as their suits had that odd stiffness of cheap nano-fiber projectile projection. Most contractors could afford the better quality and make of personal protection.
@@ -75,4 +113,5 @@ Chapter One
 	I closed my front door. I heard the door's security layers slide into place. My security at the time was not the best. I really didn't have much physical objects worth stealing. More worrisome was the threat of random violence from global warming refugees filling the city. Floating rafts of humanity floated through the now clear Arctic  ocean, down through the St. Laurence channel into the Great Lakes. The U.S. Coast Guard contained as many of the rafts in the Lake as they could. Current estimates of two million refugees floating out in the lake was hard to think about. They were creating their ecology, alternating between floating masses of algae that provided raw food to their food supply. Of course, smuggling humans continued to Chicago strained city resources.
 	Violence and chaos erupted when many refugees fought for recognition and clashed with police and the suburb militias. Most of the casualties were silent, people ending up erased through biological and electronic conflict. I avoided areas of question, finding the answers through my collection of four-dimensional mapping and predictive Google web services. All pumped into my cell phone.
 	I still had an hour before lunch so I walked down the alley to  Irving and then begin walking North. Hybrid vehicles of various colors and sizes passed by as I walked on the thermo-cement refinished sidewalks. My shoe soles adjusted under my feet, cooling and keeping my internal temperature from reacting too much from the hot Illinois day.
+
 
